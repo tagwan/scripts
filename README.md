@@ -1,6 +1,3 @@
-# scripts
-some Generic Script (shell、python)
-
 ## [Shell](./shell/README.md)|[Python](./python/README.md)
 
 <h1 align="center">通用脚本</h1>
